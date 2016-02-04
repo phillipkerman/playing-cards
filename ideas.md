@@ -1,6 +1,6 @@
 # Topic ideas for student presos
 
-git and github and version control.
+What is, and how to use: git/github and version control generally.
 
 Using 3-party code libraries/frameworks and managing dependencies.
 
